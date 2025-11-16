@@ -1,0 +1,13 @@
+include:
+  - sitemap.xml
+
+plugins:
+  - jekyll-sitemap
+
+# Forcer le type MIME pour les fichiers XML
+defaults:
+  - scope:
+      path: "sitemap.xml"
+    values:
+      layout: null
+      sitemap: true
