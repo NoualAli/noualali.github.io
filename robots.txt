@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noualali.github.io/portfolio/sitemap.xml
+Sitemap: https://noualali.github.io/sitemap.xml
